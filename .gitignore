@@ -1,0 +1,4 @@
+receipts/
+*.csv
+.DStore
+private/
