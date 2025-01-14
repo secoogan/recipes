@@ -1,4 +1,6 @@
 # Guacamole
+So fresh!
+
 ## Ingredients
 * avocado
 * lime
