@@ -6,7 +6,3 @@ So fresh!
 * lime
 * salt
 * cilantro
-
-## Directions
-
-* Add salt to bowl.
